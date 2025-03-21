@@ -2244,6 +2244,10 @@ class TC_GAME_API Player : public Unit, public GridObject<Player>
 
         std::string GetDebugInfo() const override;
 
+ 	// Wahl des Klassenmounts noch inaktiv -> Zu Aktivieren // entfernen
+        // uint8 GetMostPointsTalentTree() const;
+
+
     protected:
         // Gamemaster whisper whitelist
         GuidList WhisperList;

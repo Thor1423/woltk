@@ -91,6 +91,12 @@ const char *CONF_mpq_list[]={
     "patch-3.MPQ",
     "patch-4.MPQ",
     "patch-5.MPQ",
+    "patch-6.MPQ",
+    "patch-7.MPQ",
+    "patch-8.MPQ",
+    "patch-9.MPQ",
+    "patch-A.MPQ",
+    "patch-B.MPQ",
 };
 
 static char const* const langs[] = {"enGB", "enUS", "deDE", "esES", "frFR", "koKR", "zhCN", "zhTW", "enCN", "enTW", "esMX", "ruRU" };
